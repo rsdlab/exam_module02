@@ -23,7 +23,7 @@ ModuleDescription
 | Module Name | exam_module02 |
 | Description | ModuleDescription |
 | Version | 1.0.0 |
-| Vendor | VenderName |
+| Vendor | rsdlab |
 | Category | Category |
 | Comp. Type | STATIC |
 | Act. Type | PERIODIC |
